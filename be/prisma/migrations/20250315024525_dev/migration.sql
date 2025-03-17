@@ -1,4 +1,0 @@
--- AlterTable
-ALTER TABLE "User" ADD COLUMN     "created" INTEGER DEFAULT 0,
-ADD COLUMN     "followers" INTEGER DEFAULT 0,
-ADD COLUMN     "sold" INTEGER DEFAULT 0;

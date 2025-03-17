@@ -14,7 +14,7 @@ pub use events::*;
 pub use guards::*;
 pub use instructions::*;
 pub use states::*;
-declare_id!("3jD6tnq77WNxgNGXyeaQCoeUi4QPvmkiKkYmGfFhCBzc");
+declare_id!("Ce46txc1VyJsFAamYciingPxyNd4Ux87jdcFvco1qieM");
 
 #[program]
 pub mod launchpad_program {

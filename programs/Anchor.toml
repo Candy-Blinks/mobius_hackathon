@@ -5,7 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-launchpad_program = "3jD6tnq77WNxgNGXyeaQCoeUi4QPvmkiKkYmGfFhCBzc"
+launchpad_program = "Ce46txc1VyJsFAamYciingPxyNd4Ux87jdcFvco1qieM"
 
 [[test.genesis]]
 address = "CoREENxT6tW1HoK8ypY1SxRMZTcVPm7R94rH4PZNhX7d"  

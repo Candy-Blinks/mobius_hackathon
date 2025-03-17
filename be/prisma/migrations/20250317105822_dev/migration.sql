@@ -1,2 +1,0 @@
--- AlterTable
-ALTER TABLE "SolPayment" ALTER COLUMN "amount" SET DATA TYPE BIGINT;
