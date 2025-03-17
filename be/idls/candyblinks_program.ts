@@ -5,7 +5,7 @@
  * IDL can be found at `target/idl/candyblinks_program.json`.
  */
 export type CandyblinksProgram = {
-  address: "Ce46txc1VyJsFAamYciingPxyNd4Ux87jdcFvco1qieM";
+  address: "foUwY2znDaDywksbWYWVEbA9A8jFoUzr5k3bEmNbBZX";
   metadata: {
     name: "launchpadProgram";
     version: "0.1.0";
@@ -825,7 +825,7 @@ export type CandyblinksProgram = {
 };
 
 export const CandyblinksProgramIdl: CandyblinksProgram = {
-  address: "Ce46txc1VyJsFAamYciingPxyNd4Ux87jdcFvco1qieM",
+  address: "foUwY2znDaDywksbWYWVEbA9A8jFoUzr5k3bEmNbBZX",
   metadata: {
     name: "launchpadProgram",
     version: "0.1.0",
