@@ -1,4 +1,3 @@
-import { publicKey } from "@metaplex-foundation/umi";
 import { PinataSDK } from "pinata-web3";
 
 export const RPC_URL = process.env.NEXT_PUBLIC_RPC_URL ?? "";
